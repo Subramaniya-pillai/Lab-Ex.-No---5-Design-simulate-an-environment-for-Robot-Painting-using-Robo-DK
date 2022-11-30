@@ -242,4 +242,4 @@ r.ProgSave(r"""C:/Users/Paul/Documents/RoboDK""",r"""Mainprog""",True,r"""E:/Rob
 
 
 ## RESULT
-The painting environment for a serial manipluator has been created and the surface for the same has been thaught. 
+The painting environment for a serial manipluator has been created and the surface for the same has been thought. 
